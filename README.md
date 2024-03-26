@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justcallmeCW
-- 👀 I’m interested in ...AI, Python,Vector Databases, general databases and the Lightning Network
+- 👀 I’m interested in ...AI, Python,Vector Databases, general databases and blockchains
 - 📫 How to reach me ... on Twitter (X) @justcallme_cw
 
 <!---
